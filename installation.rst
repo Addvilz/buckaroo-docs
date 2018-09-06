@@ -42,7 +42,7 @@ Alternatively, you can use the command-line:
 .. code-block:: bash
 
    wget https://github.com/LoopPerfect/buckaroo/releases/download/v1.3.1/buckaroo_1.3.1_amd64.deb
-   sudo dpkg -i buckaroo_1.3.0_all.deb
+   sudo dpkg -i buckaroo_1.3.1_amd64.deb
 
 Finally, fetch the cookbook with:
 
